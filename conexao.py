@@ -20,4 +20,5 @@ for databases in cursor:
 cursor.close()
 db.close()
 
+
 #Guilherme Carvalho de Oliveira
